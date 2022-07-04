@@ -1,2 +1,1 @@
-Hey! I'm Mihir, a current senior in High School.
-I just started programming a while back and find it very interesting to combine various computational problems in natural science with programming.
+Rising second-year at the University of Virginia interested in fields at the intersection of mathematics, computer science, and quantitative finance.
